@@ -6,3 +6,5 @@
 $ git init
 Initialized emptiegos Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [x] Try this
+- [ ] Succesfullly did it
